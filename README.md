@@ -1,0 +1,2 @@
+# pytorch_cora_train_test
+为了测试conda里的pytorch环境所进行的一次训练初体验，所有内容都来自大模型。
